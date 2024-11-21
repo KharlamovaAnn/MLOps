@@ -1,6 +1,6 @@
 # MLOps
 
-* [Полиномиальные модели]()
+* [Полиномиальные модели](https://github.com/KharlamovaAnn/MLOps/blob/main/KharlamovaAO_3.1.ipynb)
 * [Метод опорных векторов]()
 * [Перцептрон]()
 * [Деревья решений]()
